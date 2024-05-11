@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3JbC7A9fO"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME "smart cooling"
-#define BLYNK_AUTH_TOKEN "ZWi5EdJCJSWWLpoXpnxNeAIkjekbU_Jy"
+#define BLYNK_AUTH_TOKEN ""
 
 #define BLYNK_PRINT Serial
 
